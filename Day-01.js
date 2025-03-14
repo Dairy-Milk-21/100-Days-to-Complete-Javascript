@@ -1,10 +1,4 @@
-// There are four types of values existing in js
-// 1. Number
-// 2. String
-// 3. Boolean
-// 4. Undefined
-
-// Also there are 4 data types
+// there are 4 data types
 // 1. Number
 // 2. String
 // 3. Boolean
